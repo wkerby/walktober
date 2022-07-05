@@ -1,0 +1,2 @@
+## **walktober**
+Project for annual "Walktober" fitness challenge at Brasfield & Gorrie, L.L.C. during which employees log the number of days in the month of October when they recorded over 10,000 walking steps. Reads submission log and with random module creates a weighted raffle (i.e. those who achieved this goal every day of the month will have a significantly greater chance of being selected compared to those who only achieve this goal one day of the month)
